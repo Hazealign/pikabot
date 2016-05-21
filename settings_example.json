@@ -1,8 +1,8 @@
 {
-	"channel_id": "",
-	"channel_secret": "",
-	"mid": "",
-	"modules": [
-		
-	], "port_number": 3000
+    "channel_id": "",
+    "channel_secret": "",
+    "mid": "",
+    "features": [
+        
+    ], "port_number": 3000
 }
