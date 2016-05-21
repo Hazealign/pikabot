@@ -5,10 +5,8 @@
 	"author": "Haze Lee <hazelee@realignist.me>>",
 	"license": "MIT",
 	"dependencies": {
-		"request": "2.72.0",
-		"mongoose": "4.4.17", 
-		"redis": "2.6.0-2",
-		"co": "4.6.0",
+		"request": "*",
+		"co": "*",
 		"cottage": "*",
 		"koa": "*"
 	}
